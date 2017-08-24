@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearVR_Sumsang", "GearVR_Sumsang.csproj", "{D17CB7AD-6A49-A0EE-D995-5998893DD95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearVR_Sumsang.Editor", "GearVR_Sumsang.Editor.csproj", "{B198A210-F042-C670-CB19-55BF6701570A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17CB7AD-6A49-A0EE-D995-5998893DD95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17CB7AD-6A49-A0EE-D995-5998893DD95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17CB7AD-6A49-A0EE-D995-5998893DD95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17CB7AD-6A49-A0EE-D995-5998893DD95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B198A210-F042-C670-CB19-55BF6701570A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B198A210-F042-C670-CB19-55BF6701570A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B198A210-F042-C670-CB19-55BF6701570A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B198A210-F042-C670-CB19-55BF6701570A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
